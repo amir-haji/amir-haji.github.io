@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Computer Engineering Department</p>
+    <p>Sharif University of Technology</p>
+    <p>Tehran, Iran</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently a last year undergraduate student of computer engineering at Sharif University of Technology(which is the best university in Iran according to [QS world ranking 2023](https://www.topuniversities.com/university-rankings/world-university-rankings/2023)).
+My research interests include:
+- Machine Learning and Deep learning
+- Multi-Modal Deep neural networks
+- Spurious Correlations and Robustness in Machine learning
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm very passionate about developing deep learning models which can be robust to different correlations and noises, so they can be used by people in their daily life.
+Currently I'm doing research in [L3S research institute](https://www.l3s.de/) (working on multi-modal deep neural networks) under the supervision of [Prof. Prasenjit Mitra](https://scholar.google.com/citations?user=8PbgiPkAAAAJ&hl=en).
