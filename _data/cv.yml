@@ -25,8 +25,7 @@
       institution: L3S Research Center, Hannover, Germany
       year: July 2023
       description:
-        - Description 1.
-        - Description 2.
+        - working on developing multi-modality deep neural networks by using denoising diffusion models and can be robust against missing modality.
         
     - title: Undergraduate research assistant
       institution: Robust and Interpretable Machine Learning Lab, Sharif University of Technology, Tehran, Iran
@@ -59,9 +58,12 @@
     - title: Trustworthy AI
       items: 
         - Spurious correlations and OOD detection
+        - Adversarial training
     - title: Deep learning
       items:
-        - Multi-Modality deep models
+        - Multi-Modality deep neural models
+        - diffusion models
+        - Missing modality 
 
 - title: Other Interests
   type: list
