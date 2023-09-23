@@ -32,12 +32,14 @@
       institution: Robust and Interpretable Machine Learning Lab, Sharif University of Technology, Tehran, Iran
       year: June 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Working on different methods for addressing the problem of spurious correlations with the SOTA deep learning models.
+        - result of this work is submitted and accepted to the SCIS ICML workshop 2023.
 
     - title: Data science Intern
       institution: MCI-NEXT company, Tehran, Iran
       year: June 2023
+      description:
+      - working on the NLP models to use in applications with search engines sush as content detector, semantic meaning of search query, ...
 
 
 - title: Honors and Awards
@@ -54,16 +56,14 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Trustworthy AI
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Spurious correlations and OOD detection
+    - title: Deep learning
       items:
-        - Description 1.
-        - Description 2.
+        - Multi-Modality deep models
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Computer games, playing football
