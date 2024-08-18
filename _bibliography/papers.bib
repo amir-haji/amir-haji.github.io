@@ -9,6 +9,7 @@
      Deep neural networks have exhibited remarkable performance in various domains. However, the reliance of these models on spurious features has raised concerns about their reliability. A promising solution to this problem is last-layer retraining, which involves retraining the linear classifier head on a small subset of data without spurious cues. Nevertheless, selecting this subset requires human supervision, which reduces its scalability. Moreover, spurious cues may still exist in the selected subset. As a solution to this problem, we propose a novel ranking framework that leverages an open vocabulary object detection technique to identify images without spurious cues. More specifically, we use the object detector as a measure to score the presence of the target object in the images. Next, the images are sorted based on this score, and the last-layer of the model is retrained on a subset of the data with the highest scores. Our experiments on the ImageNet-1k dataset demonstrate the effectiveness of this ranking framework in sorting images based on spuriousness and using them for last-layer retraining.
   },  
   booktitle={SCIS ICML workshop},
+  preview={spurious_ranking.png},
   year={2023},
   selected={true},
   pdf={https://openreview.net/pdf?id=wVpCk7XJIk}
@@ -17,6 +18,10 @@
 @article{rasekh2024towards,
   title={Towards Precision Healthcare: Robust Fusion of Time Series and Image Data},
   author={Rasekh, Ali and Heidari, Reza and Rezaie, Amir Hosein Haji Mohammad and Sedeh, Parsa Sharifi and Ahmadi, Zahra and Mitra, Prasenjit and Nejdl, Wolfgang},
+  abstract={With the increasing availability of diverse data types, particularly images and time series data from medical experiments, there is a growing demand for techniques designed to combine various modalities of data effectively. Our motivation comes from the important areas of predicting mortality and phenotyping where using different modalities of data could significantly improve our ability to predict. To tackle this challenge, we introduce a new method that uses two separate encoders, one for each type of data, allowing the model to understand complex patterns in both visual and time-based information. Apart from the technical challenges, our goal is to make the predictive model more robust in noisy conditions and perform better than current methods. We also deal with imbalanced datasets and use an uncertainty loss function, yielding improved results while simultaneously providing a principled means of modeling uncertainty. Additionally, we include attention mechanisms to fuse different modalities, allowing the model to focus on what's important for each task. We tested our approach using the comprehensive multimodal MIMIC dataset, combining MIMIC-IV and MIMIC-CXR datasets. Our experiments show that our method is effective in improving multimodal deep learning for clinical applications. The code will be made available online.},
+  preview={multimodal.png},
   journal={arXiv preprint arXiv:2405.15442},
+  selected={true},
+  pdf={https://arxiv.org/pdf/2405.15442},
   year={2024}
 }
