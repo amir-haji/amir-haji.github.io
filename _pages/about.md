@@ -25,4 +25,4 @@ My research interests include:
 - Multi-Modal learning
 - Robust and Fair Machine Learning
 
-I'm passionate about developing robust multi-modal learning models robust against noises and correlations in data. I previously completed my research internship in [L3S research institute](https://www.l3s.de/) (working on multi-modal models for clinical prediciton) under the supervision of [Prof. Prasenjit Mitra](https://scholar.google.com/citations?user=8PbgiPkAAAAJ&hl=en). Currently, I'm working on my bachelor's degree project focusing on bias mitigation in in deep learning.
+I'm passionate about developing robust multi-modal learning models robust against noises and correlations in data. I previously completed my research internship in [L3S research institute](https://www.l3s.de/) (working on multi-modal models for clinical prediciton) under the supervision of [Prof. Prasenjit Mitra](https://scholar.google.com/citations?user=8PbgiPkAAAAJ&hl=en). Currently, I'm working on my bachelor's degree project focusing on bias mitigation in in deep learning under the supervision of [Dr. Mahdieh Soleymani Baghshah](https://sharif.edu/~soleymani/).
